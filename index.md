@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# TechExcel: Elevate your Copilot for M365 Technical Proficiency (lvl 300)
+# TechExcel: Elevate your Copilot for M365 Technical Proficiency
 
 **The estimated time to complete this lab is 435 minutes.**
 
