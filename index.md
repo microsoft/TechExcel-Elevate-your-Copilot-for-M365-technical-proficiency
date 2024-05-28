@@ -6,7 +6,7 @@ nav_order: 1
 
 # TechExcel: Elevate your Copilot for M365 Technical Proficiency
 
-**The estimated time to complete this lab is 435 minutes.**
+**The estimated time to complete this lab is 195 minutes.**
 
 At this end of this lab, you will be able to:
 
