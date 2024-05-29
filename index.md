@@ -14,7 +14,6 @@ At this end of this lab, you will be able to:
 - Integrate Copilot with Microsoft Purview for data classification and compliance enforcement.
 - Deploy Copilot for M365 security and compliance features.
 - Demonstrate practical applications of security solutions and methodologies through simulated scenarios mirroring real customer cases.
-- Utilize the admin dashboard to control Copilot Studio settings for extensibility.
 
 ## Customer scenario
 
